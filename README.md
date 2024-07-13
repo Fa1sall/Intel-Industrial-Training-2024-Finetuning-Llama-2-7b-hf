@@ -10,6 +10,6 @@ This project focuses on creating a custom chatbot using pretrained Llama-2-7b-ch
 ## Project Details
 - Model Used: [Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
 - Dataset: [Stanford Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca)
-- Building Chatbot: [build_chatbot_on_spr](../Notebooks/build_chatbot_on_spr.ipynb)
-- Finetuning Chatbot: [single_node_finetuning_on_spr](../Notebooks/single_node_finetuning_on_spr.ipynb) 
-- Documentation: [Project Report](../Intel_Report_2024.pdf)
+- Building Chatbot: [build_chatbot_on_spr](Notebooks/build_chatbot_on_spr.ipynb)
+- Finetuning Chatbot: [single_node_finetuning_on_spr](Notebooks/single_node_finetuning_on_spr.ipynb) 
+- Documentation: [Project Report](Intel_Report_2024.pdf)
