@@ -18,8 +18,8 @@ This project focuses on creating a custom chatbot for Text Generation using pret
 * **Team Name**: LogiCoders
 * **Team Leader**: Faisal Irfan
 * **Team Members**:
-    *Ajmal Masood
-    *Danusham  
+    * Ajmal Masood
+    * Danusham  
 
 ## Running the project
 Perform these operations on the [Intel Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html)
