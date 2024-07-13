@@ -5,7 +5,7 @@ PS-4: “Introduction to GenAI and Simple LLM Inference on CPU and finetuning of
 LLM Model to create a Custom Chatbot” 
 
 ## Introduction
-This project focuses on creating a custom chatbot using pretrained Llama-2-7b-chat-hf and perform finetuning with the standford alpaca dataset and LLM inference on a CPU. 
+This project focuses on creating a custom chatbot for Text Generation using pretrained Llama-2-7b-chat-hf model, finetuning with the standford alpaca dataset and performing simple inference on a CPU. 
 
 ## Project Details
 - Model Used: [Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
