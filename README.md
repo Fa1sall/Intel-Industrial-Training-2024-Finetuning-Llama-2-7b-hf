@@ -4,7 +4,7 @@
 PS-4: “Introduction to GenAI and Simple LLM Inference on CPU and finetuning of 
 LLM Model to create a Custom Chatbot” 
 
-## Introduction
+## Overview
 This project focuses on creating a custom chatbot for Text Generation using pretrained Llama-2-7b-chat-hf model, finetuning with the standford alpaca dataset and performing simple inference on a CPU. 
 
 ## Project Details
@@ -13,6 +13,13 @@ This project focuses on creating a custom chatbot for Text Generation using pret
 - Building Chatbot: [build_chatbot_on_spr](Notebooks/build_chatbot_on_spr.ipynb)
 - Finetuning Chatbot: [single_node_finetuning_on_spr](Notebooks/single_node_finetuning_on_spr.ipynb) 
 - Documentation: [Project Report](Intel_Report_2024.pdf)
+
+## Team Details
+* **Team Name**: LogiCoders
+* **Team Leader**: Faisal Irfan
+* **Team Members**:
+         * Ajmal Masood
+         * Danusham  
 
 ## Running the project
 Perform these operations on the [Intel Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html)
